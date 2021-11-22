@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\Samson\source\repos\nyumba\nyumba\Source.cpp(49,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Samson\source\repos\nyumba\nyumba\Source.cpp(50,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Samson\source\repos\nyumba\nyumba\Source.cpp(51,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Samson\source\repos\nyumba\nyumba\Source.cpp(63,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Samson\source\repos\nyumba\nyumba\Source.cpp(92,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Samson\source\repos\nyumba\nyumba\Source.cpp(129,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  nyumba.vcxproj -> C:\Users\Samson\source\repos\nyumba\Debug\nyumba.exe
